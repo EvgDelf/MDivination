@@ -1,0 +1,16 @@
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\MDivination.csproj.AssemblyReference.cache
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\MDivination.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\Views\DivinationResult.xaml.g.cs
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\MDivination.AssemblyInfoInputs.cache
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\MDivination.AssemblyInfo.cs
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\MDivination.csproj.CoreCompileInputs.cache
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\MDivination.dll
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\refint\MDivination.dll
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\MDivination.pdb
+D:\VSprojects\MDivination\MDivination\MDivination\bin\Debug\netstandard2.0\MDivination.deps.json
+D:\VSprojects\MDivination\MDivination\MDivination\bin\Debug\netstandard2.0\MDivination.dll
+D:\VSprojects\MDivination\MDivination\MDivination\bin\Debug\netstandard2.0\MDivination.pdb
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VSprojects\MDivination\MDivination\MDivination\obj\Debug\netstandard2.0\ref\MDivination.dll

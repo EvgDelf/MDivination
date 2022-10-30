@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="History\0.txt" />
+    <None Remove="History\1.txt" />
+    <None Remove="History\2.txt" />
+    <None Remove="Images\0.png" />
+    <None Remove="Images\1.png" />
+    <None Remove="Images\2.png" />
+    <None Remove="Interpretation\0.txt" />
+    <None Remove="Interpretation\1.txt" />
+    <None Remove="Interpretation\2.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="History\0.txt" />
+    <EmbeddedResource Include="History\1.txt" />
+    <EmbeddedResource Include="History\2.txt" />
+    <EmbeddedResource Include="Images\0.png" />
+    <EmbeddedResource Include="Images\1.png" />
+    <EmbeddedResource Include="Images\2.png" />
+    <EmbeddedResource Include="Interpretation\0.txt" />
+    <EmbeddedResource Include="Interpretation\1.txt" />
+    <EmbeddedResource Include="Interpretation\2.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\DivinationResult.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
